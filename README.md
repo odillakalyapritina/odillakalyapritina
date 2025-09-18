@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect%20with%20me-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odilla-kalya-pritina-458826282/)
 
 **Odilla Kalya Pritina/Odilla** is an Electrical Engineering student at the **Sepuluh Nopember Institute of Technology** in Surabaya, East Java, with a focus on **Machine Learning**.
-A C++ enthusiast who is experienced with building and optimizing native apps on Linux, macOS, and Windows. Also, a fast learner and generalist who can develop multiple things like computer vision programs using OpenCV
+A C++ enthusiast who is experienced with building and optimizing native apps on Linux and Windows. Also, a fast learner and generalist who can develop multiple things like computer vision programs using OpenCV
 
 <!--
 - 🔭 I’m currently pursuing education at Institut Teknologi Sepuluh Nopember
