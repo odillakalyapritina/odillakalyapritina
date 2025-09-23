@@ -21,7 +21,7 @@ A C++ enthusiast who is experienced with building and optimizing native apps on 
 In addition to academic activities, I also work on various personal and collaborative projects,
 which include **the application of machine learning and IoT-based intelligent systems**.
 
-Please see 📸 [Portofolio desain lengkap](https://github.com/odillakalyapritina/designporto.git) & [my cv](https://github.com/odillakalyapritina/CV-ATS.git) for details of the projects I've worked on.
+Please see 📸 [Portofolio design creative](https://github.com/odillakalyapritina/designporto.git) & [my cv](https://github.com/odillakalyapritina/CV-ATS.git) for details of the projects I've worked on.
 
 ## 📌 Tech Stack
 <p align="left">
