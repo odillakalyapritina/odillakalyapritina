@@ -38,6 +38,9 @@ Please see 📸 [Portofolio desain lengkap](https://github.com/odillakalyapritin
 </p>
 
 <!--
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odillakalyapritina&layout=compact&theme=radical)
+
 ### 🤖 Machine Learning & AI Projects  
 [![ML](https://img.shields.io/badge/Machine%20Learning-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/username?tab=repositories)
 [![AI](https://img.shields.io/badge/AI-PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/username?tab=repositories)
